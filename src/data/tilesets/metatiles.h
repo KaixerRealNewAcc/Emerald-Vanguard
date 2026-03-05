@@ -408,3 +408,9 @@ const u16 gMetatiles_HallOfFame[] = INCBIN_U16("data/tilesets/secondary/hall_of_
 const u16 gMetatileAttributes_HallOfFame[] = INCBIN_U16("data/tilesets/secondary/hall_of_fame_frlg/metatile_attributes.bin");
 
 #endif // IS_FRLG
+
+const u16 gMetatiles_General_New[] = INCBIN_U16("data/tilesets/primary/general_new/metatiles.bin");
+const u16 gMetatileAttributes_General_New[] = INCBIN_U16("data/tilesets/primary/general_new/metatile_attributes.bin");
+
+const u16 gMetatiles_Littleroot[] = INCBIN_U16("data/tilesets/secondary/littleroot/metatiles.bin");
+const u16 gMetatileAttributes_Littleroot[] = INCBIN_U16("data/tilesets/secondary/littleroot/metatile_attributes.bin");
