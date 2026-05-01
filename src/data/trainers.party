@@ -75,7 +75,7 @@ Comments can be added as C comment blocks
 
 === TRAINER_NONE ===
 Name:
-Class: Pkmn Trainer 1
+Class: Pkmn Trainer
 Pic: Hiker
 Gender: Male
 Music: Male
@@ -302,7 +302,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DECLAN ===
 Name: DECLAN
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -1034,7 +1034,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_LOLA_1 ===
 Name: LOLA
-Class: Tuber F
+Class: Tuber
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -1051,7 +1051,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_AUSTINA ===
 Name: AUSTINA
-Class: Tuber F
+Class: Tuber
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -1064,7 +1064,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GWEN ===
 Name: GWEN
-Class: Tuber F
+Class: Tuber
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -1077,7 +1077,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LOLA_2 ===
 Name: LOLA
-Class: Tuber F
+Class: Tuber
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -1094,7 +1094,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_LOLA_3 ===
 Name: LOLA
-Class: Tuber F
+Class: Tuber
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -1111,7 +1111,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_LOLA_4 ===
 Name: LOLA
-Class: Tuber F
+Class: Tuber
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -1128,7 +1128,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_LOLA_5 ===
 Name: LOLA
-Class: Tuber F
+Class: Tuber
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -1145,7 +1145,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_RICKY_1 ===
 Name: RICKY
-Class: Tuber M
+Class: Tuber
 Pic: Tuber M
 Gender: Male
 Music: Girl
@@ -1162,7 +1162,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_SIMON ===
 Name: SIMON
-Class: Tuber M
+Class: Tuber
 Pic: Tuber M
 Gender: Male
 Music: Girl
@@ -1179,7 +1179,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHARLIE ===
 Name: CHARLIE
-Class: Tuber M
+Class: Tuber
 Pic: Tuber M
 Gender: Male
 Music: Girl
@@ -1192,7 +1192,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RICKY_2 ===
 Name: RICKY
-Class: Tuber M
+Class: Tuber
 Pic: Tuber M
 Gender: Male
 Music: Girl
@@ -1209,7 +1209,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_RICKY_3 ===
 Name: RICKY
-Class: Tuber M
+Class: Tuber
 Pic: Tuber M
 Gender: Male
 Music: Girl
@@ -1226,7 +1226,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_RICKY_4 ===
 Name: RICKY
-Class: Tuber M
+Class: Tuber
 Pic: Tuber M
 Gender: Male
 Music: Girl
@@ -1243,7 +1243,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_RICKY_5 ===
 Name: RICKY
-Class: Tuber M
+Class: Tuber
 Pic: Tuber M
 Gender: Male
 Music: Girl
@@ -2744,7 +2744,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_LUIS ===
 Name: LUIS
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2757,7 +2757,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DOMINIK ===
 Name: DOMINIK
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2770,7 +2770,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DOUGLAS ===
 Name: DOUGLAS
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2787,7 +2787,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_DARRIN ===
 Name: DARRIN
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2808,7 +2808,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_TONY_1 ===
 Name: TONY
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2821,7 +2821,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JEROME ===
 Name: JEROME
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2834,7 +2834,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MATTHEW ===
 Name: MATTHEW
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2847,7 +2847,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DAVID ===
 Name: DAVID
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2864,7 +2864,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SPENCER ===
 Name: SPENCER
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2881,7 +2881,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ROLAND ===
 Name: ROLAND
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2894,7 +2894,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_NOLEN ===
 Name: NOLEN
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2907,7 +2907,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_STAN ===
 Name: STAN
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2920,7 +2920,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BARRY ===
 Name: BARRY
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2933,7 +2933,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DEAN ===
 Name: DEAN
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2954,7 +2954,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RODNEY ===
 Name: RODNEY
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2967,7 +2967,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RICHARD ===
 Name: RICHARD
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2980,7 +2980,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HERMAN ===
 Name: HERMAN
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2997,7 +2997,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SANTIAGO ===
 Name: SANTIAGO
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3014,7 +3014,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GILBERT ===
 Name: GILBERT
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3027,7 +3027,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_FRANKLIN ===
 Name: FRANKLIN
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3040,7 +3040,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KEVIN ===
 Name: KEVIN
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3053,7 +3053,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JACK ===
 Name: JACK
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3066,7 +3066,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DUDLEY ===
 Name: DUDLEY
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3087,7 +3087,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHAD ===
 Name: CHAD
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3104,7 +3104,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TONY_2 ===
 Name: TONY
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3117,7 +3117,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_TONY_3 ===
 Name: TONY
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3130,7 +3130,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_TONY_4 ===
 Name: TONY
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3147,7 +3147,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_TONY_5 ===
 Name: TONY
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -5941,17 +5941,33 @@ Level: 39
 IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
 
 === TRAINER_CALVIN_1 ===
-Name: CALVIN
+Name: Calvin
 Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Smart Trainer
 
-Poochyena
+Sentret @ Silk Scarf
+Ability: Adaptability
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Secret Power
+- Quick Attack
+- Sand Attack
+
+Woobat @ Twisted Spoon
+Ability: Unaware
+Level: 5
+- Confusion
+- Air Cutter
+- Hypnosis
+
+Timburr @ Black Belt
+Ability: Guts
+Level: 5
+- Rage
+- Rock Throw
 
 === TRAINER_BILLY ===
 Name: BILLY
@@ -7627,7 +7643,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JANI ===
 Name: JANI
-Class: Tuber F
+Class: Tuber
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -8105,7 +8121,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_BEVERLY ===
 Name: BEVERLY
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8122,7 +8138,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_IMANI ===
 Name: IMANI
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8135,7 +8151,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KYLA ===
 Name: KYLA
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8148,7 +8164,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DENISE ===
 Name: DENISE
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8165,7 +8181,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BETH ===
 Name: BETH
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8178,7 +8194,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TARA ===
 Name: TARA
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8195,7 +8211,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MISSY ===
 Name: MISSY
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8208,7 +8224,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALICE ===
 Name: ALICE
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8229,7 +8245,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JENNY_1 ===
 Name: JENNY
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8242,7 +8258,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRACE ===
 Name: GRACE
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8255,7 +8271,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TANYA ===
 Name: TANYA
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8268,7 +8284,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SHARON ===
 Name: SHARON
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8281,7 +8297,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_NIKKI ===
 Name: NIKKI
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8298,7 +8314,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDA ===
 Name: BRENDA
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8311,7 +8327,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KATIE ===
 Name: KATIE
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8328,7 +8344,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SUSIE ===
 Name: SUSIE
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8341,7 +8357,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KARA ===
 Name: KARA
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8354,7 +8370,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DANA ===
 Name: DANA
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8367,7 +8383,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SIENNA ===
 Name: SIENNA
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8384,7 +8400,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DEBRA ===
 Name: DEBRA
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8397,7 +8413,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LINDA ===
 Name: LINDA
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8414,7 +8430,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KAYLEE ===
 Name: KAYLEE
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8431,7 +8447,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LAUREL ===
 Name: LAUREL
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8448,7 +8464,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CARLEE ===
 Name: CARLEE
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8461,7 +8477,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JENNY_2 ===
 Name: JENNY
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8474,7 +8490,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JENNY_3 ===
 Name: JENNY
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8487,7 +8503,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JENNY_4 ===
 Name: JENNY
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8504,7 +8520,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JENNY_5 ===
 Name: JENNY
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -9183,7 +9199,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JAZMYN ===
 Name: JAZMYN
-Class: Cooltrainer 2
+Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -10622,7 +10638,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_LEONARDO ===
 Name: LEONARDO
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -10658,7 +10674,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_HARRISON ===
 Name: HARRISON
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -10684,7 +10700,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CLARENCE ===
 Name: CLARENCE
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -11249,21 +11265,36 @@ Level: 39
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_RICK ===
-Name: RICK
+Name: Rick
 Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Smart Trainer
 
-Wurmple
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ledyba @ Light Clay
+Ability: Swarm
+Level: 6
+- Reflect
+- Light Screen
+- U-Turn
+- Aerial Ace
 
-Wurmple
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Pineco @ Oran Berry
+Ability: Rough Skin
+Level: 6
+- Pin Missile
+- Rollout
+- Defense Curl
+
+Surskit @ Oran Berry 
+Ability: Guts
+Level: 6
+- Splash
+- Bug Bite
+- Aerial Ace
+
 
 === TRAINER_LYLE ===
 Name: LYLE
@@ -12543,7 +12574,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_REED ===
 Name: REED
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -12560,7 +12591,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TISHA ===
 Name: TISHA
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -12982,7 +13013,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HAILEY ===
 Name: HAILEY
-Class: Tuber F
+Class: Tuber
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -12995,7 +13026,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHANDLER ===
 Name: CHANDLER
-Class: Tuber M
+Class: Tuber
 Pic: Tuber M
 Gender: Male
 Music: Girl
@@ -13549,7 +13580,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_PETE ===
 Name: PETE
-Class: Swimmer M
+Class: Swimmer
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -13562,7 +13593,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ISABELLE ===
 Name: ISABELLE
-Class: Swimmer F
+Class: Swimmer
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -16852,7 +16883,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_PLACEHOLDER ===
 Name: BRENDAN
-Class: RS Protag
+Class: Pkmn Trainer
 Pic: RS Brendan
 Gender: Male
 Music: Male
@@ -16864,7 +16895,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAY_PLACEHOLDER ===
 Name: MAY
-Class: RS Protag
+Class: Pkmn Trainer
 Pic: RS May
 Gender: Female
 Music: Male

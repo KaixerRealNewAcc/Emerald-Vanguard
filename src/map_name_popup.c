@@ -198,6 +198,7 @@ static const u8 sMapPopUpTilesPrimary_BW[] = INCBIN_U8("graphics/map_popup/bw/bw
 static const u8 sMapPopUpTilesSecondary_BW[] = INCBIN_U8("graphics/map_popup/bw/bw_secondary.4bpp");
 static const u16 sMapPopUpTilesPalette_BW_Black[16] = INCBIN_U16("graphics/map_popup/bw/black.gbapal");
 static const u16 sMapPopUpTilesPalette_BW_White[16] = INCBIN_U16("graphics/map_popup/bw/white.gbapal");
+static const u16 sMapPopUpTilesPalette_BW_Green[16] = INCBIN_U16("graphics/map_popup/bw/green.gbapal");
 #else
 static const u8 sMapPopUpTilesPrimary_BW[] = {0};
 static const u8 sMapPopUpTilesSecondary_BW[] = {0};
@@ -641,6 +642,8 @@ static void LoadMapNamePopUpWindowBg(void)
         default: // MAPPOPUP_THEME_BW_DEFAULT
             if (OW_POPUP_BW_COLOR == OW_POPUP_BW_COLOR_WHITE)
                 LoadPalette(sMapPopUpTilesPalette_BW_White, BG_PLTT_ID(14), sizeof(sMapPopUpTilesPalette_BW_White));
+            else if (OW_POPUP_BW_COLOR == OW_POPUP_BW_COLOR_GREEN)
+                LoadPalette(sMapPopUpTilesPalette_BW_Black, BG_PLTT_ID(14), sizeof(sMapPopUpTilesPalette_BW_Green));
             else
                 LoadPalette(sMapPopUpTilesPalette_BW_Black, BG_PLTT_ID(14), sizeof(sMapPopUpTilesPalette_BW_Black));
 

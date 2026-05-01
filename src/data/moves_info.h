@@ -2709,19 +2709,16 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Rage"),
         .description = COMPOUND_STRING(
-            "Raises the user's Attack\n"
-            "every time it is hit."),
-        .effect = EFFECT_HIT,
-        .power = 20,
-        .type = TYPE_NORMAL,
+            "Inflicts bad damage if used\n"
+            "on a foe switching out."),
+        .effect = EFFECT_PURSUIT,
+        .power = 40,
+        .type = TYPE_FIGHTING,
         .accuracy = 100,
         .pp = 20,
         .target = TARGET_SELECTED,
         .priority = 0,
         .category = DAMAGE_CATEGORY_PHYSICAL,
-        .additionalEffects = ADDITIONAL_EFFECTS({
-            .moveEffect = MOVE_EFFECT_RAGE,
-        }),
         .makesContact = TRUE,
         .contestEffect = C_UPDATED_MOVE_EFFECTS >= GEN_6 ? CONTEST_EFFECT_BADLY_STARTLE_PREV_MONS : CONTEST_EFFECT_REPETITION_NOT_BORING,
         .contestCategory = C_UPDATED_MOVE_CATEGORIES >= GEN_6 ? CONTEST_CATEGORY_TOUGH : CONTEST_CATEGORY_COOL,
@@ -4088,15 +4085,19 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("Splash"),
         .description = COMPOUND_STRING(
             "It's just a splash...\n"
-            "Has no effect whatsoever."),
-        .effect = EFFECT_DO_NOTHING,
-        .power = 0,
-        .type = TYPE_NORMAL,
+            "It confuses the Target!"),
+        .effect = EFFECT_HIT,
+        .power = 30,
+        .type = TYPE_WATER,
         .accuracy = 0,
         .pp = 40,
         .target = TARGET_USER,
         .priority = 0,
-        .category = DAMAGE_CATEGORY_STATUS,
+        .category = DAMAGE_CATEGORY_PHYSICAL,
+        .additionalEffects = ADDITIONAL_EFFECTS({
+            .moveEffect = MOVE_EFFECT_CONFUSION,
+            .chance = 100,
+        }),
         .zMove = { .effect = Z_EFFECT_ATK_UP_3 },
         .ignoresProtect = TRUE,
         .mirrorMoveBanned = TRUE,

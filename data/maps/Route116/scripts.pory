@@ -1,4 +1,4 @@
-
+raw`
 Route116_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route116_OnTransition
 	map_script MAP_SCRIPT_ON_LOAD, Route116_OnLoad
@@ -463,12 +463,10 @@ Route116_Text_TrainerTipsBagHasPockets:
 	.string "placed in the appropriate POCKETS.\p"
 	.string "No TRAINER can afford to be without\n"
 	.string "a BAG of their own.$"
+`
 
-Route116_EventScript_Joey::
-	trainerbattle_single TRAINER_JOEY, Route116_EventScript_Joey_Text_0, Route116_Text_JoeyDefeat
-	msgbox Route116_Text_JoeyPostBattle, MSGBOX_AUTOCLOSE
+script Route116_EventScript_Joey{
+	trainerbattle_single (TRAINER_JOEY, "Finnally beaten roxanne huh?\nLets see what you are made of!", Route116_Text_JoeyDefeat)
+	msgbox (Route116_Text_JoeyPostBattle, MSGBOX_AUTOCLOSE)
 	end
-
-
-Route116_EventScript_Joey_Text_0:
-	.string "Finnally beaten roxanne huh?\nLets see what you are made of!$"
+}
